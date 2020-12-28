@@ -1,4 +1,6 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+language: java
+jdk:
+  - oraclejdk8
+  - oraclejdk11
+  - openjdk10
+  - openjdk11
